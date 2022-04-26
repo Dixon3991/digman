@@ -60,3 +60,6 @@ crashlytics-build.properties
 
 # Garbage Collection
 /Logs
+
+#Mac 
+.DS_Store
